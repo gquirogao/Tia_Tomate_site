@@ -1,0 +1,15 @@
+.contacto__button-white {
+    border: none;
+    background-color: $white;
+    color: $granite-gray;
+    text-decoration: none;
+    border-radius: 100px;
+    font-weight: $bold;
+    font-family: $raleway;
+    font-size: $large;
+    display: inline-block; 
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+}

@@ -1,0 +1,18 @@
+.main {
+    background-color: $jelly-bean;
+}
+
+.main__text {
+    color: $white;
+    font-size: $xx-large;
+    font-weight: $extra-light;
+    text-align: center;
+}
+
+.main__title-emphasis {
+    font-weight: bold;
+}
+
+.main__container {
+    padding: 2rem;
+}
